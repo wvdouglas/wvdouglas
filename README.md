@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente atuo como Analista de Suporte porém tenho como objetivo me tornar um desenvolvedor sem área especifica.
-- 🌱 Estudando Desenvolvimento web em Geral pelo programa Desenvolve do GrupoBoticario.
+- 🌱 Estudando Desenvolvimento web Front-end/Back-End pelo programa Desenvolve do GrupoBoticario.
 - 📧 Caso tenha alguma dicas, ou até oportunidade de emprego/estagio, no perfil tem meu linkedin para contato.
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wvdouglas&show_icons=true&theme=dracula)
