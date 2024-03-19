@@ -12,4 +12,5 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wvdouglas&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
-![snake gif](https://github.com/wvdouglas/wvdouglas/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/wvdouglas/wvdouglas/blob/output/github-contribution-grid-snake.gif" alt="">
+
