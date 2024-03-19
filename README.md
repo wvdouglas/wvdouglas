@@ -5,8 +5,13 @@
 - 🌱 Estudando Desenvolvimento web Front-end/Back-End pelo programa Desenvolve do GrupoBoticario.
 - 📧 Caso tenha alguma dicas, ou até oportunidade de emprego/estagio, no perfil tem meu linkedin para contato.
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wvdouglas&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wvdouglas&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/wvdouglas/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=wvdouglas&theme=dracula" />
+</a>
+<a href="https://github.com/wvdouglas/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wvdouglas&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+
 
 
   Thanks 😀
