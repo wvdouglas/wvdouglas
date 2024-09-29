@@ -1,8 +1,11 @@
 ## Olá!! Meu nome é Douglas Monteiro!!
 
 
-- 🔭 Atualmente atuo como Analista de Suporte porém tenho como objetivo me tornar um desenvolvedor sem área especifica.
-- 🌱 Estudando Desenvolvimento web Front-end/Back-End pelo programa Desenvolve do GrupoBoticario.
+- 🔭 Atualmente atuo trabalho como Data & Analitycs.
+- 🔭 Conhecimento em Javascript.
+- 🔭 Conhecimento em SQL.
+- 🔭 Conhecimento em FireBase.
+- 🔭 Estudante Python.
 - 📧 Caso tenha alguma dicas, ou até oportunidade de emprego/estagio, no perfil tem meu linkedin para contato.
 
  <a href="https://github.com/wvdouglas/github-readme-stats">
