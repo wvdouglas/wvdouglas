@@ -1,11 +1,13 @@
 ## Olá!! Meu nome é Douglas Monteiro!!
+## Cursando Ciência Da Computação.
+
 
 
 - 🔭 Atualmente atuo trabalho como Data & Analitycs.
 - 🔭 Conhecimento em Javascript.
 - 🔭 Conhecimento em SQL.
 - 🔭 Conhecimento em FireBase.
-- 🔭 Estudante Python.
+- 🔭 Estudando Python.
 - 📧 Caso tenha alguma dicas, ou até oportunidade de emprego/estagio, no perfil tem meu linkedin para contato.
 
  <a href="https://github.com/wvdouglas/github-readme-stats">
