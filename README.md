@@ -8,7 +8,7 @@
 - 🔭 Conhecimento em SQL.
 - 🔭 Conhecimento em FireBase.
 - 🔭 Estudando Python.
-- 📧 Caso tenha alguma dicas, ou até oportunidade de emprego/estagio, no perfil tem meu linkedin para contato.
+- 1% Todos os dias.
 
  <a href="https://github.com/wvdouglas/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=wvdouglas&theme=dracula" />
