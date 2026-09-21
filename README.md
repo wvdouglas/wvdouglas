@@ -1,9 +1,9 @@
 ## Olá!! Meu nome é Douglas Monteiro!!
-## Cursando Ciência Da Computação.
+## Formando em Ciência Da Computação.
 
 
 
-- 🔭 Atualmente atuo trabalho como Data & Analitycs.
+- 🔭 Atualmente atuo trabalho como Engenheiro de dados.
 - 🔭 Conhecimento em Javascript.
 - 🔭 Conhecimento em SQL.
 - 🔭 Conhecimento em FireBase.
