@@ -7,10 +7,9 @@ Em busca de novas oportunidades!
 - 🔭 Conhecimento em Javascript.
 - 🔭 Conhecimento em SQL.
 
-Atualmente estudando :
-
-- 🔭 Estudando Python.
-- 🔭 Estudando Node.js.
+No momento focado em aprender: 
+- 🔭 Python.
+- 🔭 Node.js.
 
 - 1% Todos os dias.
 
