@@ -3,9 +3,7 @@
 
 Em busca de novas oportunidades!
 - 🔭 Experiência em Engenharia de dados e suporte tecnico.
-- 🔭 Conhecimento em Javascript.
 - 🔭 Conhecimento em SQL.
-No momento focado em aprender: 
 - 🔭 Estudando Python.
 - 🔭 Estudando Node.js.
 
