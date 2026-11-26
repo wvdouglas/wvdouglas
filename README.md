@@ -16,8 +16,6 @@ causa raiz e solução.
 
 `Node.js` `Express` `JavaScript` `Debugging` `Segurança web` `Git flow`
 
-**Progresso:** 1/20 chamados resolvidos
-
 - 1% Todos os dias.
 
 <picture>
