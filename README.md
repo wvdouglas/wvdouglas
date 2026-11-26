@@ -6,8 +6,8 @@ Em busca de novas oportunidades!
 - 🔭 Conhecimento em Javascript.
 - 🔭 Conhecimento em SQL.
 No momento focado em aprender: 
-- 🔭 Python.
-- 🔭 Node.js.
+- 🔭 Estudando Python.
+- 🔭 Estudando Node.js.
 
 ## 🚀 Projeto em destaque
 
